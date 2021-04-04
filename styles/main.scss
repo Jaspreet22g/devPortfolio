@@ -1,0 +1,13 @@
+@import './fonts.scss';
+@import './variables.scss';
+@import './presets.scss';
+@import './scrollBar.scss';
+body {
+  background: $main_dark;
+  color: white;
+  .online{
+    height: 100px;
+    width: 100px;
+      background: url(../assets/online/github.svg);
+  }
+}
