@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="javascript.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 512 512"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata20"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs18"><rect
+     id="rect847"
+     height="53.12"
+     width="238.72"
+     y="14.72"
+     x="101.12" /></defs><sodipodi:namedview
+   inkscape:current-layer="Layer_2-2"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-11"
+   inkscape:window-x="-11"
+   inkscape:cy="165.97333"
+   inkscape:cx="256"
+   inkscape:zoom="1.5625"
+   showgrid="false"
+   id="namedview16"
+   inkscape:window-height="986"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:#F3832F;}
+	.st1{fill:#F99F31;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g
+   id="Layer_2-2">
+	
+	<polygon
+   id="polygon6"
+   points="87.6,88.4 416.2,88.4 401,400.8 251.9,464.2 101.7,401.3  "
+   class="st0" />
+	<polygon
+   id="polygon8"
+   points="251.9,123.5 381.1,123.5 369,377.7 251.9,427.5  "
+   class="st1" />
+	<polygon
+   id="polygon10"
+   points="260,149.7 362.7,149.7 359.6,204.2 324.5,204.2 324.5,193.2 300.9,193.5 300.4,239.6 357.7,238    352,358.6 261,395.5 260,316.6 296.2,311.1 295.9,336 320.8,326.6 321.3,276.3 260,281.3  "
+   class="st2" />
+	<polygon
+   id="polygon12"
+   points="202.1,149.7 240.9,149.7 241.1,394.2 150.7,359.4 148.1,297.5 181.6,308.5 181.9,327.1 207.1,336  "
+   class="st2" />
+<text
+   transform="translate(39.68,21.76)"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect847);fill:#000000;fill-opacity:1;stroke:none;"
+   id="text845"
+   xml:space="preserve"><tspan
+     x="101.11914"
+     y="51.213916"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:'Verdana Bold'">JavaScript</tspan></tspan></text></g>
+</svg>

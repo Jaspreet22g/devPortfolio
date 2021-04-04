@@ -1,0 +1,19 @@
+
+//----------------resets----------------
+*,*::before,*::after{
+	margin: 0;
+	padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+html,body{
+    overflow-x:hidden;
+    background: $main_dark;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+  }
