@@ -13,7 +13,14 @@
 
 html,body{
     overflow-x:hidden;
-    background: $main_dark;
+    background: $main-dark;
     width: 100%;
     font-family: 'Montserrat', sans-serif;
-  }
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+li{
+    text-decoration: none;
+}

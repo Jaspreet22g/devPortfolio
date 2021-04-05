@@ -1,13 +1,102 @@
-@import './fonts.scss';
-@import './variables.scss';
-@import './presets.scss';
-@import './scrollBar.scss';
+@import "./fonts.scss";
+@import "./variables.scss";
+@import "./presets.scss";
+@import "./scrollBar.scss";
 body {
-  background: $main_dark;
-  color: white;
-  .online{
-    height: 100px;
-    width: 100px;
-      background: url(../assets/online/github.svg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
+  background: $main-dark;
+  color: lightgrey;
+}
+nav {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px;
+  a {
+    margin: 0 10px;
+    &:hover {
+      color: white;
+    }
+  }
+}
+.social {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 5px;
+  top: calc((100vh - 200px) / 2);
+  a {
+    cursor: pointer;
+    svg {
+      width: 40px;
+      height: 40px;
+      fill: lightgray;
+      &:hover,
+      &:focus {
+        fill: white;
+      }
+    }
+  }
+}
+
+.wrapper {
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 1280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  & > section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+  }
+  .profile-info {
+    padding: 50px;
+    img {
+      width: 300px;
+      margin: 20px 0;
+    }
+    h1 {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 80px;
+      font-weight: 800;
+    }
+    p {
+      max-width: 500px;
+      font-weight: 500;
+      font-size: 20px;
+      text-align: justify;
+      span {
+        font-size: inherit;
+        font-weight: inherit;
+      }
+    }
+    .resume {
+      font-weight: 500;
+      color: lightgray;
+      background: $dark-purple;
+      display: inline-block;
+      padding: 5px 10px;
+      margin-top: 20px;
+      font-size: 20px;
+      border-radius: 20px;
+      font-family: "JetBrains Mono", monospace;
+      transition: all 0.25s;
+      &:hover {
+        background: $main-purple;
+      }
+    }
   }
 }
