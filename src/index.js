@@ -1,23 +1,17 @@
 import "../styles/main.scss";
 import favicon from "../favicon-32x32.png";
 import Jaspreet from "../assets/miscellaneous/developer.svg";
+import brainBulb from "../assets/miscellaneous/brain_bulb.svg";
+import project from "../assets/miscellaneous/project.svg";
+import handleTab from "./callHandleTab.js";
+import typing from "./typing.js";
+import reportWindowSize from "./onResize.js"
+import skills from "../assets/miscellaneous/skills.png";
+import heart from "../assets/miscellaneous/heart.svg";
+import react from "../assets/tech/react.svg";
+import redux from "../assets/tech/redux.svg";
 
-const texts = ["coding", "music", "poetry", "design"];
-let count = 0;
-let index = 0;
-let currentText = "";
-let letters = "";
-
-(function type() {
-  if (count === texts.length) {
-    count = 0;
-  }
-  currentText = texts[count];
-  letters = currentText.slice(0, ++index);
-  document.querySelector(".typing").textContent = letters;
-  if (letters.length === currentText.length) {
-    count++;
-    index = 0;
-  }
-  setTimeout(type, 400);
-})();
+typing();
+window.handleTab=handleTab;
+window.handleTab(0);
+reportWindowSize();

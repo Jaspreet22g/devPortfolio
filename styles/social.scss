@@ -1,0 +1,21 @@
+.social {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 70px;
+    a {
+      cursor: pointer;
+      svg {
+        width: 40px;
+        height: 40px;
+        margin: 5px;
+        fill: lightgray;
+        &:hover,
+        &:focus {
+          fill: white;
+        }
+      }
+    }
+  }

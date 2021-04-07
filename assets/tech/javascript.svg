@@ -7,75 +7,84 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="javascript.svg"
-   xml:space="preserve"
-   style="enable-background:new 0 0 512 512;"
-   viewBox="0 0 512 512"
-   y="0px"
-   x="0px"
+   height="375.79999"
+   width="328.60001"
+   version="1.1"
    id="Layer_1"
-   version="1.1"><metadata
+   x="0px"
+   y="0px"
+   viewBox="0 0 328.60001 375.79999"
+   xml:space="preserve"
+   sodipodi:docname="javascript.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
    id="metadata20"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs18"><rect
-     id="rect847"
-     height="53.12"
-     width="238.72"
+     id="rect849"
+     height="74.879997"
+     width="248.32001"
+     y="9.6000004"
+     x="129.92" /><rect
+     id="rect843"
+     height="75.519997"
+     width="209.92"
+     y="4.48"
+     x="145.28" /><rect
+     x="101.12"
      y="14.72"
-     x="101.12" /></defs><sodipodi:namedview
-   inkscape:current-layer="Layer_2-2"
-   inkscape:window-maximized="1"
-   inkscape:window-y="-11"
-   inkscape:window-x="-11"
-   inkscape:cy="165.97333"
-   inkscape:cx="256"
-   inkscape:zoom="1.5625"
-   showgrid="false"
-   id="namedview16"
-   inkscape:window-height="986"
-   inkscape:window-width="1920"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0"
-   guidetolerance="10"
-   gridtolerance="10"
-   objecttolerance="10"
-   borderopacity="1"
+     width="238.72"
+     height="53.119999"
+     id="rect847" /></defs><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
    bordercolor="#666666"
-   pagecolor="#ffffff" />
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1000"
+   id="namedview16"
+   showgrid="false"
+   inkscape:zoom="1.5625"
+   inkscape:cx="168.4"
+   inkscape:cy="77.57333"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2-2" />
 <style
-   id="style2"
-   type="text/css">
+   type="text/css"
+   id="style2">
 	.st0{fill:#F3832F;}
 	.st1{fill:#F99F31;}
 	.st2{fill:#FFFFFF;}
 </style>
 <g
+   transform="translate(-87.6,-88.4)"
    id="Layer_2-2">
 	
 	<polygon
-   id="polygon6"
-   points="87.6,88.4 416.2,88.4 401,400.8 251.9,464.2 101.7,401.3  "
-   class="st0" />
+   class="st0"
+   points="401,400.8 251.9,464.2 101.7,401.3 87.6,88.4 416.2,88.4 "
+   id="polygon6" />
 	<polygon
-   id="polygon8"
-   points="251.9,123.5 381.1,123.5 369,377.7 251.9,427.5  "
-   class="st1" />
+   class="st1"
+   points="369,377.7 251.9,427.5 251.9,123.5 381.1,123.5 "
+   id="polygon8" />
 	<polygon
-   id="polygon10"
-   points="260,149.7 362.7,149.7 359.6,204.2 324.5,204.2 324.5,193.2 300.9,193.5 300.4,239.6 357.7,238    352,358.6 261,395.5 260,316.6 296.2,311.1 295.9,336 320.8,326.6 321.3,276.3 260,281.3  "
-   class="st2" />
+   class="st2"
+   points="359.6,204.2 324.5,204.2 324.5,193.2 300.9,193.5 300.4,239.6 357.7,238 352,358.6 261,395.5 260,316.6 296.2,311.1 295.9,336 320.8,326.6 321.3,276.3 260,281.3 260,149.7 362.7,149.7 "
+   id="polygon10" />
 	<polygon
-   id="polygon12"
-   points="202.1,149.7 240.9,149.7 241.1,394.2 150.7,359.4 148.1,297.5 181.6,308.5 181.9,327.1 207.1,336  "
-   class="st2" />
+   class="st2"
+   points="241.1,394.2 150.7,359.4 148.1,297.5 181.6,308.5 181.9,327.1 207.1,336 202.1,149.7 240.9,149.7 "
+   id="polygon12" />
 <text
-   transform="translate(39.68,21.76)"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect847);fill:#000000;fill-opacity:1;stroke:none;"
-   id="text845"
-   xml:space="preserve"><tspan
-     x="101.11914"
-     y="51.213916"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:'Verdana Bold'">JavaScript</tspan></tspan></text></g>
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect843);fill:#000000;fill-opacity:1;stroke:none;"
+   id="text841"
+   xml:space="preserve" /></g>
 </svg>

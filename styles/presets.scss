@@ -1,26 +1,42 @@
-
-//----------------resets----------------
-*,*::before,*::after{
-	margin: 0;
-	padding: 0;
-    border: 0;
-    box-sizing: border-box;
-    font-weight: 700;
-    font-size: 25px;
-    text-align: center;
-    scroll-behavior: smooth;
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  text-align: center;
+  scroll-behavior: smooth;
 }
 
-html,body{
-    overflow-x:hidden;
-    background: $main-dark;
-    width: 100%;
-    font-family: 'Montserrat', sans-serif;
+html,
+body {
+  overflow-x: hidden;
+  background: $main-dark;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
 }
-a{
-    text-decoration: none;
-    color: unset;
+a {
+  text-decoration: none;
+  color: unset;
+  font-family: "Montserrat", sans-serif;
 }
-li{
-    text-decoration: none;
+li {
+  text-decoration: none;
+}
+p {
+  text-align: justify;
+  max-width: 500px;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    height: 60px;
+    margin: 0 5px;
+  }
+  h2 {
+    font-size: 35px;
+  }
 }

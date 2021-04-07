@@ -1,0 +1,24 @@
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(26, 27, 30, 0.8748541652989321) 44%,
+    rgba(26, 27, 30, 0.7684115882681197) 76%,
+    rgba(26, 27, 30, 0.3818569664193803) 95%
+  );
+  margin: 0 10px;
+  p {
+    font-size: 12px;
+    padding-bottom: 2px;
+    img{
+        width: 10px;
+        margin: 0 2px;
+    }
+  }
+}

@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+  body {
+    height: unset;
+  }
+  .heading h2 {
+    font-size: 30px;
+  }
+  .wrapper {
+    flex-direction: column;
+    .wrapper-one {
+      flex-direction: column;
+      justify-content: flex-start;
+      .social {
+        flex-direction: row;
+        height: 70px;
+        width: 100%;
+      }
+    }
+    .wrapper-two {
+      justify-content: center !important;
+      align-items: center !important;
+    }
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .project-window img,
+  .skill-window img {
+    max-width: 290px;
+  }
+}

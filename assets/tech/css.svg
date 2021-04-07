@@ -1,51 +1,120 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<path style="fill:#F2F2F2;" d="M512,256c0,82.317-38.86,155.564-99.234,202.397C369.455,492.001,315.068,512,256,512
-	s-113.455-19.999-156.766-53.603C38.86,411.564,0,338.317,0,256C0,114.615,114.615,0,256,0S512,114.615,512,256z"/>
-<path style="fill:#006BC0;" d="M441.992,119.474l-29.226,338.923C369.455,492.001,315.068,512,256,512
-	s-113.455-19.999-156.766-53.603L70.008,119.474H441.992z"/>
-<polygon style="fill:#0096DC;" points="255.997,151.338 255.997,505.296 378.269,470.777 405.545,151.338 "/>
-<polygon style="fill:#FFFFFF;" points="364.036,289.787 275.85,289.787 367.999,242.89 371.981,195.746 140.013,195.746 
-	144.072,243.811 237.189,243.811 147.845,288.484 152.002,337.723 152.002,337.723 311.376,337.723 306.152,396.366 255.997,409.95 
-	203.752,395.321 202.446,358.75 153.778,358.75 159.866,430.848 255.997,458.015 352.127,430.848 364.039,289.779 "/>
-<g>
-	<polygon style="fill:#222123;" points="165.352,67.224 165.352,33.787 213.417,33.787 213.417,15.676 147.937,15.676 
-		147.937,85.335 213.417,85.335 213.417,67.224 	"/>
-	<polygon style="fill:#222123;" points="241.542,42.93 241.542,34.57 289.347,34.57 289.347,33.787 289.347,15.676 223.866,15.676 
-		223.866,58.864 270.799,58.864 270.799,67.224 223.866,67.224 223.866,85.335 289.347,85.335 289.347,67.224 289.347,42.93 	"/>
-	<polygon style="fill:#222123;" points="316.252,42.93 316.252,34.57 364.056,34.57 364.056,33.787 364.056,15.676 298.576,15.676 
-		298.576,58.864 345.509,58.864 345.509,67.224 298.576,67.224 298.576,85.335 364.056,85.335 364.056,67.224 364.056,42.93 	"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="392.526"
+   width="371.98401"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 371.98401 392.526"
+   xml:space="preserve"
+   sodipodi:docname="css.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata53"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs51" /><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1000"
+   id="namedview49"
+   showgrid="false"
+   inkscape:zoom="1.5898438"
+   inkscape:cx="185.992"
+   inkscape:cy="35.88718"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+
+<path
+   style="fill:#006bc0"
+   d="m 371.984,0 -29.226,338.923 c -43.311,33.604 -97.698,53.603 -156.766,53.603 -59.068,0 -113.455,-19.999 -156.766,-53.603 L 0,0 Z"
+   id="path4" />
+<polygon
+   transform="translate(-70.008,-119.474)"
+   style="fill:#0096dc"
+   points="378.269,470.777 405.545,151.338 255.997,151.338 255.997,505.296 "
+   id="polygon6" />
+<polygon
+   transform="translate(-70.008,-119.474)"
+   style="fill:#ffffff"
+   points="367.999,242.89 371.981,195.746 140.013,195.746 144.072,243.811 237.189,243.811 147.845,288.484 152.002,337.723 152.002,337.723 311.376,337.723 306.152,396.366 255.997,409.95 203.752,395.321 202.446,358.75 153.778,358.75 159.866,430.848 255.997,458.015 352.127,430.848 364.039,289.779 364.036,289.787 275.85,289.787 "
+   id="polygon8" />
+
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g18">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g20">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g22">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g24">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g26">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g28">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g30">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g32">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g34">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g36">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g38">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g40">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g42">
 </g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g44">
 </g>
-<g>
-</g>
-<g>
+<g
+   transform="translate(-70.008,-119.474)"
+   id="g46">
 </g>
 </svg>

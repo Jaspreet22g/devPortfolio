@@ -1,0 +1,30 @@
+.profile-info {
+    height: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    img {
+      width: 300px;
+      margin: 20px 0;
+    }
+    h1 {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 80px;
+      font-weight: 800;
+    }
+    p {
+      max-width: 450px;
+      font-weight: 500;
+      font-size: 20px;
+      margin: 0 15px;
+      text-align: justify;
+      span {
+        font-size: inherit;
+        font-weight: inherit;
+      }
+    }
+
+  
+  }

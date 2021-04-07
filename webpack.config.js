@@ -5,7 +5,7 @@ const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
-  entry: "./src/index.js",
+  entry: ["./src/index.js","./src/callHandleTab.js","./src/typing.js","./src/onResize.js"],
   mode: "production",
   output: {
     filename: "main.[contenthash].bundle.js",
@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/i,
-        type: "asset/resource",
+        type: "asset",
       },
     ],
   },

@@ -4,11 +4,11 @@
     height: 8px;
 }
 ::-webkit-scrollbar-track {
-    background: $main-purple;     
-}
-::-webkit-scrollbar-thumb {
     background:black; 
 }
+::-webkit-scrollbar-thumb {
+    background: $main-purple;
+}
 ::-webkit-scrollbar-thumb:hover {
-    background: $main-dark; 
+    background: $dark-purple; 
 }
