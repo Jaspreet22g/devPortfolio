@@ -1,26 +1,13 @@
 @import "./fonts.scss";
 @import "./variables.scss";
 @import "./presets.scss";
-@import "./scrollbar.scss";
+@import "./scroll-bar.scss";
 @import "./social.scss";
 @import "./body.scss";
-@import "./profileInfo.scss";
+@import "./profile-info.scss";
 @import "./project-section.scss";
 @import "./footer.scss";
 @import "./btn.scss";
 @import "./media-query.scss";
 @import "./wrapper.scss";
 @import "./skill-section.scss";
-
-.heading {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  img {
-    height: 60px;
-    margin: 0 5px;
-  }
-  h2 {
-    font-size: 35px;
-  }
-}
