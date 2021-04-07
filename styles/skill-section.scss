@@ -16,6 +16,8 @@
     .skill-window {
       display: flex;
       flex-direction: column;
+      justify-content: center;
+      align-items: center;
       background: #1e1e1e;
       border-radius: 5px;
       font-family: "JetBrains Mono", monospace;
