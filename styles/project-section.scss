@@ -55,7 +55,7 @@
       .tab {
         border-right: 1px solid rgb(75, 75, 75);
         border-top: 1px solid rgb(75, 75, 75);
-        font-size: 12px;
+        font-size: 14px;
         height: 100%;
         padding: 0 4px;
         font-weight: 500;
@@ -116,20 +116,29 @@
     .head {
       width: 100%;
       background: #383838;
-      padding: 5px 0;
       margin-bottom: 5px;
       display: flex;
       justify-content: center;
       align-items: center;
       h4 {
-        font-size: 16px;
-        font-weight: 700;
+        font-size: 18px;
+        font-weight: 500;
         margin: 0 6px;
       }
       a {
         text-decoration: underline;
         font-size: 14px;
         color: lightgrey;
+        svg {
+          width: 25px;
+          height: 25px;
+          margin: 5px;
+          fill: lightgray;
+          &:hover,
+          &:focus {
+            fill: white;
+          }
+        }
       }
     }
     p {
@@ -139,6 +148,7 @@
       width: 95%;
       line-height: 22px;
       max-width: 500px;
+      margin-bottom: 10px;
     }
     .technologies {
       display: flex;
