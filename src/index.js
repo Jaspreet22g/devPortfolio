@@ -6,7 +6,6 @@ import project from "../assets/miscellaneous/project.svg";
 import handleTab from "./callHandleTab.js";
 import typing from "./typing.js";
 import reportWindowSize from "./onResize.js"
-import skills from "../assets/miscellaneous/skills.png";
 import heart from "../assets/miscellaneous/heart.svg";
 import react from "../assets/tech/react.svg";
 import redux from "../assets/tech/redux.svg";
