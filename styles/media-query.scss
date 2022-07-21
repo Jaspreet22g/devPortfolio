@@ -9,7 +9,6 @@
     flex-direction: column;
     .wrapper-one {
       flex-direction: column;
-      justify-content: flex-start;
       .social {
         flex-direction: row;
         height: 70px;
@@ -17,7 +16,6 @@
       }
     }
     .wrapper-two {
-      justify-content: center !important;
       align-items: center !important;
     }
   }
